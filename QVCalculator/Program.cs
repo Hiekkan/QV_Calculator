@@ -1,0 +1,3 @@
+﻿using QVCalculator;
+
+Calculate.StartText();
